@@ -1,31 +1,53 @@
 ## License & Disclaimer
-This mod **does not require copyright**, you can use it wherever you want, post it wherever you want.
+This mod **does not require copyright**, you can use it anywhere you want, post it anywhere you want.
 
-I don't care, let people think I'm very generous, but in reality, I'm lazy.
+I don't care, let people think I'm very generous, but in reality, I'm very lazy.
 
-⚠️ Note: This is a hacker client for Minecraft 1.21.11 (Fabric).
+Stop right now, download my mod now, you don't have to use them, but I'll be happy :)
 
-- Loader version: choose the latest version.
+⚠️ Note: This is a modified client for Minecraft 1.21.11 (Fabric).
 
-- Includes many modules.
+- Fabric Loader version: choose the latest version.
 
-- Should not be used on public Minecraft servers; I am not responsible if it gets banned.
+- Includes many modules (possibly)
 
-## Development Status
-The mod is currently in **alpha version**.
+- Should not be used on public Minecraft servers; I am not responsible if you get banned.
 
-- Unable to use stably.
+- Not yet stable.
 
-- If there are any bugs, please report them because I'm too lazy to test everything.
+- If there are any bugs, please report them as I'm too lazy to check everything.
+
+- To download the .jar file, press Window+R, type %appdata%\.minecraft\mods, and drag and drop the jar file.
+
+- Downloading a pre-compiled version is silly :)) (I'm just kidding, don't cry)
+
+## Compilation
+
+Run:
+
+./gradlew build
+
+## Status
+
+This project is currently under active development (alpha stage).
+
+- Unstable
+
+- May not compile correctly
+- Modules are incomplete
 
 ## Notes
-- Have you done your homework yet? If not, I will report it to the teacher!!!
+Feel free to leave feedback or report bugs if you find any :) - But please don't underestimate it :P
 
-- Note: **Do not take this mod into the bathroom**, as it will explode.
+## Notes
+- Have you done your homework? If not, I will report you to the teacher!
 
-## Additional Information
-- Visit the website **Tran_Duc_Bo.mew** to buy Tran Duc Bell plushies: Buy one, get one free (pay for both).
+- Attention!: **Do not take this mod to public servers**, otherwise you will be banned. (Important note repeated several times.)
 
-- Buy Tran Duc Bo plushies at a 500% discount: from 1 billion Vietnamese Dong to only 6 billion Vietnamese Dong.
+## Irrelevant Information (read only if you enjoy humor)
 
-- Additional Note: This is just a joke. **Don't breathe CO₂ instead of O₂**, or you'll "meet your ancestors" sooner than expected!
+- Visit the website **TranDucBong.mew** to buy Tran Duc Bong plushies: Buy one, get one free (pay for both).
+
+- Buy Tran Duc Bong plushies with a 500% discount: from 1 billion VND down to only 6 billion VND.
+
+- Additional note: This is just a joke. **Don't inhale CO₂ instead of O₂**, or you'll meet your ancestors sooner than expected!
