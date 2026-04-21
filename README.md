@@ -58,8 +58,8 @@ Feel free to leave feedback or report bugs if you find any :) - But please don't
 
 ## Irrelevant Information (read only if you enjoy humor)
 
-- Visit the website **TranDucBo.mew** to buy Tran Duc Bong plushies: Buy one, get one free (pay for both).
+- Visit the website **TranDucBo.mew** to buy Tran Duc Bo plushies: Buy one, get one free (pay for both).
 
-- Buy Tran Duc Bong plushies with a 500% discount: from 1 billion VND down to only 6 billion VND.
+- Buy Tran Duc Bo plushies with a 500% discount: from 1 billion VND down to only 6 billion VND.
 
 - Additional note: This is just a joke. **Don't inhale CO₂ instead of O₂**, or you'll meet your ancestors sooner than expected!
