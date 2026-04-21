@@ -16,17 +16,19 @@ Stop right now, download my mod now, you don't have to use them, but I'll be hap
 🛡️ What features does it have?
 
 - Causes lag
-
 🤒 What if my phone explodes after using the mod?
 
-😂 Congratulations, you have activated the "Real-life Explosion" module. Buy a new phone to try it again.
+😂 Congratulations, you have activated the "Real-life Explosion" module. Buy a new phone to experience it again.
 
-😭 Why was I banned?
+😭 Why am I banned?
 
 🤣 Because this mod is so good that the admin can't stand your presence.
 
-##Note: The module should enable the stupid AI mob; it will help you buy a new phone. I will give the GIANT mob a chance to spawn naturally, BUT IT WILL HAVE BABY ZOMBIE AI.
+Q: How do I escape from the Giant Baby Zombie?
 
+A: Don't run, spend that time writing your will or choosing a new phone model on Tran Duc Bo's website.
+
+##Note: This module should enable the stupid AI mob; it will help you buy a new machine. I will make the Giant mob able to spawn naturally, BUT IT WILL HAVE BABY ZOMBIE AI.
 
 ⚠️ Note: This is a modified client for Minecraft 1.21.11 (Fabric).
 
