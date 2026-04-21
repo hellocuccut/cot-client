@@ -9,13 +9,22 @@ Stop right now, download my mod now, you don't have to use them, but I'll be hap
 ❓ Why is it called cot-client?
 - Because my name is poop
 🎮 Supported versions?
-- 6.67.7 (I don't know, download it yourself)
+- 6.67.7 (I don't know how to download it myself)
 🚀 Is it smooth?
 
 - I don't know
 🛡️ What features does it have?
 
 - Causes lag
+
+🤒 What if my phone explodes after using the mod?
+
+😂 Congratulations, you have activated the "Real-life Explosion" module. Buy a new phone to try it again.
+
+😭 Why was I banned?
+
+🤣 Because this mod is so good that the admin can't stand your presence.
+
 
 ⚠️ Note: This is a modified client for Minecraft 1.21.11 (Fabric).
 
