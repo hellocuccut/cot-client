@@ -25,6 +25,8 @@ Stop right now, download my mod now, you don't have to use them, but I'll be hap
 
 🤣 Because this mod is so good that the admin can't stand your presence.
 
+##Note: The module should enable the stupid AI mob; it will help you buy a new phone. I will give the GIANT mob a chance to spawn naturally, BUT IT WILL HAVE BABY ZOMBIE AI.
+
 
 ⚠️ Note: This is a modified client for Minecraft 1.21.11 (Fabric).
 
