@@ -5,6 +5,18 @@ I don't care, let people think I'm very generous, but in reality, I'm very lazy.
 
 Stop right now, download my mod now, you don't have to use them, but I'll be happy :)
 
+💩 FAQ
+❓ Why is it called cot-client?
+- Because my name is poop
+🎮 Supported versions?
+- 6.67.7 (I don't know, download it yourself)
+🚀 Is it smooth?
+
+- I don't know
+🛡️ What features does it have?
+
+- Causes lag
+
 ⚠️ Note: This is a modified client for Minecraft 1.21.11 (Fabric).
 
 - Fabric Loader version: choose the latest version.
